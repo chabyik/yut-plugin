@@ -1,0 +1,9 @@
+name: YutPlugin
+version: 1.0
+api-version: 1.18
+main: xyz.chabyik.yutplugin.YutPlugin
+
+commands:
+  yut:
+    usage: "/yut (toggle/summon)"
+    description: "YutPlugin command"
